@@ -1,7 +1,6 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
-- [JDaddy] (https://github.com/Jason8830)
 - [Hudlez](https://github.com/hudlez)
 - [The Capricorn](https://github.com/khushmanvar)
 - [Boby](https://github.com/bobychaudhary)
@@ -92,6 +91,7 @@ Jawadur
 - [Prisca Chidimma] (https://github.com/Priceless-P)
 - Srishti
 - [Amie Walton] (https://github.com/amielouise2)
+- [JDaddy] (https://github.com/Jason8830)
 - [Christopher Beharry-Yambo] (https://github.com/cabyambo)
 - [Omar H] (https://github.com/KnighthawkF117)
 - [Claudia Brito] (https://github.com/claudiabrito96)
